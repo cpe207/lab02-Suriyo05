@@ -24,7 +24,14 @@
     background-size: cover;
   }
   
+  .logo_img{
+    text-align: center;
+    padding: 1rem;
+  }
  
+li{
+    list-style: none;
+}
 
   
 
