@@ -1,0 +1,30 @@
+.center-header {
+    color: rgb(227, 138, 200);
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .skill-container {
+    border: solid rgb(174, 44, 124);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .skill-container > h3 {
+    color: rgb(200, 26, 26);
+    font-style: italic;
+  }
+
+  body{
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    background-image: url("https://www.shutterstock.com/shutterstock/videos/14755141/thumb/2.jpg?ip=x480");
+    
+  }
+
+  
+  
