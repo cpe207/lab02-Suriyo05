@@ -17,11 +17,16 @@
     color: rgb(200, 26, 26);
     font-style: italic;
   }
+  
+  body {
+    background-image: url('images/images\ \(1\).jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+ 
 
   
-  body{ 
-    background-color: #89d8ed;  
-}
 
   
   
